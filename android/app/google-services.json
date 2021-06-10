@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407626321715",
+    "project_id": "candyemporium-5fa60",
+    "storage_bucket": "candyemporium-5fa60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407626321715:android:1075033f906a0757473846",
+        "android_client_info": {
+          "package_name": "com.hassan.candy_emporium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407626321715-idg3o0gjt3udfomp6rkeon4s5r6nvi0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan.candy_emporium",
+            "certificate_hash": "a38e75bc78f57ab76e91317120445129ba6d45ca"
+          }
+        },
+        {
+          "client_id": "407626321715-l7813916j6lge6ovh6a458g945muc0bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72S9QYX7dqO5mbw2eOTj3ODeIrcgzGUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407626321715-l7813916j6lge6ovh6a458g945muc0bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
